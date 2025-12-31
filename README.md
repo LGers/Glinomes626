@@ -10,9 +10,8 @@
  * Open-source enthusiast :desktop_computer:
 * Love to help people :electric_plug:
 * I do like automation 🤖
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glinomes626&repo=curses-app)](https://github.com/Glinomes626/curses-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glinomes626&repo=parallax)](https://github.com/Glinomes626/parallax)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glinomes626&repo=curses-app)](https://github.com/Glinomes626/curses-app)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glinomes626&repo=parallax)](https://github.com/Glinomes626/parallax)
                                                                                                                                     
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="78" height="26"/>
